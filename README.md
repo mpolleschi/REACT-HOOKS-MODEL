@@ -5,7 +5,7 @@ This is a simple Todo application built with React using hooks. The app allows u
 ## Project Structure
 
 ```
-my-todo-app
+REACT-HOOKS-MODEL
 ├── src
 │   ├── components
 │   │   ├── TodoList.jsx      # Component to display the list of todos
@@ -34,7 +34,7 @@ my-todo-app
    ```
 2. Navigate to the project directory:
    ```
-   cd my-todo-app
+   cd REACT-HOOKS-MODEL
    ```
 3. Install the dependencies:
    ```
